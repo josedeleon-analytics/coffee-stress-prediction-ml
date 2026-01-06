@@ -98,7 +98,7 @@ coffee-stress-prediction-ml/
 ```bash
 git clone https://github.com/josedeleon-analytics/coffee-stress-prediction-ml.git
 cd coffee-stress-prediction-ml
-
+```
 
 ---
 
@@ -123,5 +123,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 Jose De Leon
 🎓 Master’s in Analytics Candidate — Northeastern University
+
 📍 Vancouver, Canada
+
 🔗 LinkedIn | GitHub
