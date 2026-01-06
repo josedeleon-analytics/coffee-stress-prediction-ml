@@ -102,7 +102,7 @@ cd coffee-stress-prediction-ml
 
 ---
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 The dataset is synthetic, resulting in stronger-than-real correlations.
 
@@ -112,14 +112,14 @@ Results demonstrate methodology and modeling rigor, not clinical diagnosis.
 
 ---
 
-🔑 License
+## 🔑 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 
 ---
 
-👤 Author
+## 👤 Author
 
 Jose De Leon
 🎓 Master’s in Analytics Candidate — Northeastern University
