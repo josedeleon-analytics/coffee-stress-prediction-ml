@@ -122,8 +122,5 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ## 👤 Author
 
 Jose De Leon
-🎓 Master’s in Analytics Candidate — Northeastern University
-
-📍 Vancouver, Canada
 
 🔗 LinkedIn | GitHub
